@@ -1,0 +1,29 @@
+# Module 4 Assignment 
+# Sample code by Christopher Smith 
+# created on January 19, 2020
+
+#tempature in fahrenheit 
+def func1(x):
+print ('Celsius')
+Celsius = input ('Fahrenheit - 32 / 1.8')
+Func1()
+
+# speed in miles per hour 
+def func2(y):
+print(y)
+print('')
+print(y)
+func2()
+
+# convert Fahrenheit temperature to Celsius
+def main():
+func1('Celsius * 1.8 + 32')
+print('Fahrenheit')
+
+# speed from miles per hour to meters per second
+def main1():
+func2('mph = miles per hour * meters per second')
+print('speed')
+
+# below we start all the action
+main()
